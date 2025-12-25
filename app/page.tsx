@@ -63,3 +63,5 @@ export default function Home() {
     </div>
   );
 }
+
+//mongodb+srv://02jsmella_db_user:<db_password>@cluster0.sppha81.mongodb.net/?appName=Cluster0
