@@ -1,5 +1,5 @@
 import {connectDB} from '@lib/mongodb';
-import Room from '@models/room';
+import Room from '@models/Room';
 
 export async function POST(request) {
 
